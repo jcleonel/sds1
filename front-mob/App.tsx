@@ -7,6 +7,8 @@ import {
   Play_400Regular,
   Play_700Bold
 } from '@expo-google-fonts/play';
+import Header from './src/components/Header';
+import Home from './src/pages/Home';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -19,7 +21,8 @@ export default function App() {
   } else {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>App Mobile</Text>
+        <Header />
+        <Home />
         <StatusBar style="light" />
       </View>
     );
@@ -30,13 +33,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#1c3a5e',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-
-  text: {
-    color: '#fff',
-    fontSize: 20
+    backgroundColor: '#0B1F34'
   }
 });
