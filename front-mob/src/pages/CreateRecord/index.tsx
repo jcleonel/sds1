@@ -91,7 +91,7 @@ const CreateRecord = () => {
                   <PlatformCard platform='PLAYSTATION' icon="playstation" onChange={handleChangePlatform} activePlatform={platform} />
                 </View>
                 <RNPickerSelect 
-                  useNativeAndroidPickerStyle={false}
+                 useNativeAndroidPickerStyle={false}
                   onValueChange={value => {
                     setSelectedGame(value)
                   }}                  

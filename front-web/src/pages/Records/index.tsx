@@ -8,7 +8,7 @@ import { formatDate } from './helpers';
 import Filters from '../../components/Filters';
 import Pagination from './Pagination';
 
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://sds1-jcl.herokuapp.com';
 
 const Records = () => { 
 
