@@ -9,21 +9,32 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Link para o projeto web
 
-https://sds1-jcl.netlify.app/
+[Big Game Survey](https://sds1-jcl.netlify.app/)
+
+
+## Download Apps Mobile
+
+[Big Game Survey ANDROID APK](https://drive.google.com/file/d/1WlWdyP-fSEDrwlssvakgayuajEcDcaGy)
+
+[Big Game Survey IOS](https://drive.google.com/file/d/1Er4MyjniCfavyITDWtbbQLrYq7un6yuz)
+
 
 ## Link do back-end
 
-https://sds1-jcl.herokuapp.com/records
+[Big Game Survey - Lista da Pesquisa](https://sds1-jcl.herokuapp.com/records)
 
-https://sds1-jcl.herokuapp.com/games
+[Big Game Survey - Lista de Games](https://sds1-jcl.herokuapp.com/games)
+
 
 ## Layout mobile
 ![Mobile 1](https://github.com/jcleonel/sds1/blob/master/assets/app_mobile1.jpeg) ![Mobile 2](https://github.com/jcleonel/sds1/blob/master/assets/app_mobile2.jpeg) ![Mobile 3](https://github.com/jcleonel/sds1/blob/master/assets/app_mobile3.jpeg) 
+
 
 ## Layout web
 ![Web 1](https://github.com/jcleonel/sds1/blob/master/assets/app_web2.JPG)
 
 ![Web 2](https://github.com/jcleonel/sds1/blob/master/assets/app_web3.JPG)
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -46,6 +57,6 @@ https://sds1-jcl.herokuapp.com/games
 
 Jean Leonel
 
-https://www.linkedin.com/in/jean-carlos-leonel-da-costa-576b34180/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-carlos-leonel-da-costa-576b34180/)](https://www.linkedin.com/in/jean-carlos-leonel-da-costa-576b34180/)
 
 
