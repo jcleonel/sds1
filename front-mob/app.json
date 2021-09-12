@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "front-mob",
+    "name": "Big Game Survey",
     "slug": "front-mob",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0B1F34"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,12 +17,16 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.jeanleonel.biggame",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.jeanleonel.biggame",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#0B1F34"
       }
     },
     "web": {
